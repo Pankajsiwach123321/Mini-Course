@@ -54,7 +54,7 @@ const StudentSwiper = () => {
                     <div className=" d-flex pt-2  justify-content-between align-items-center ">
                       <div className=" d-flex gap-3  align-items-center ">
                         <img src={obj.image} alt="profile" />
-                        <div>
+                        <div className=" text-start">
                           <p className=" mb-0 fw-normal fs-lg lh-2xl text-white ">
                             {obj.name}
                           </p>

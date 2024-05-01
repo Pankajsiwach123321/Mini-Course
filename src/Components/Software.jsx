@@ -53,7 +53,7 @@ const Software = () => {
                     </div>
                   </div>
                 </div>
-                <p className=" mb-0 fs-md lh-xl pt-1 fw-bold c-low-gray">
+                <p className=" mb-0 fs-md text-start lh-xl pt-1 fw-bold c-low-gray">
                   {obj.what}
                 </p>
                 <div className=" d-flex  align-items-center  gap-1">
