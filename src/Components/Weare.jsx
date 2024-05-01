@@ -33,7 +33,7 @@ const Weare = () => {
                 MEET YOUR INSTRUCTORS
               </span>
               <h2 className=" fw-medium  pt-1 text-capitalize mb-1  fs-2xl lh-5xl c-low-gray">
-                Hi, We’re Kody Doherty <br /> And Kolton Starr 👋
+                Hi, We’re Kody Doherty <br /> And Kolton Starr <span className=" d-inline-block animation-hand">👋</span>
               </h2>
               <p className=" fs-sm fw-normal max-w-494 pt-2  lh_lg c-light-gray">
                 And we know firsthand that building a career as a software

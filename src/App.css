@@ -443,6 +443,10 @@
   right: 1%
 }
 
+.animation-hand {
+  animation: movehand 1s linear infinite alternate;
+}
+
 .setbacktotop:hover {
   background: #FF2801;
 }
@@ -526,6 +530,16 @@
 
   100% {
     transform: rotate(360deg);
+  }
+}
+
+@keyframes movehand {
+  0% {
+    transform: rotate(-10deg);
+  }
+
+  100% {
+    transform: rotate(10deg);
   }
 }
 
