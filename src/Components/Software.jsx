@@ -37,14 +37,12 @@ const Software = () => {
             >
               <div className="softwarecard position-relative  z-1">
                 <div className=" d-flex  justify-content-between align-items-end  ">
-                  <div>
-                    <p className="c-dark-gray mb-0 fw-semibold fs-2xl lh-6xl">
-                      {obj.number}
-                    </p>
-                  </div>
+                  <p className="c-dark-gray mb-0 fw-semibold fs-2xl lh-6xl">
+                    {obj.number}
+                  </p>
                   <div className={`setimg ${obj.top3}`}>
                     <div className=" position-relative  z-1">
-                      <img src={obj.image} alt="cartonman" />
+                      <img className=" w-100 w-100 " src={obj.image} alt="cartonman" />
                       <img
                         src={obj.image}
                         alt="cartonman"
