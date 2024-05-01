@@ -437,7 +437,7 @@
   background: #000;
   border: 1px solid #FF2801;
   border-radius: 16px;
-  z-index: 2;
+  z-index: 3;
   bottom: 1%;
   cursor: pointer;
   right: 1%
