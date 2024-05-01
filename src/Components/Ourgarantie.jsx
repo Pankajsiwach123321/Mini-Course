@@ -6,7 +6,7 @@ const Ourgarantie = () => {
   return (
     <section className=" pt-sm-5 mt-md-5 position-relative  z-1">
       <div className="container pt-5 mt-md-5">
-        <div className="row pt-1 flex-column-reverse  flex-md-row ">
+        <div className="row pt-2 flex-column-reverse  flex-md-row ">
           <div className="col-md-7 mt-4 mt-md-0">
             <h2
               data-aos="fade-down"

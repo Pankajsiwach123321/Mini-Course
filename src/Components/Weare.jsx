@@ -8,11 +8,11 @@ const Weare = () => {
       <div className="container pt-md-5 mt-5">
         <h2
           data-aos="fade-down"
-          className=" fs-4xl lh-8xl fw-semibold mt-md-1  text-center c-low-gray"
+          className=" fs-4xl lh-8xl fw-semibold mt-md-2  text-center c-low-gray"
         >
           Who Are <span className="gradiant-text-main">We</span>?
         </h2>
-        <div className="row ">
+        <div className="row pt-5 mt-4 ">
           <div className="col-lg-6">
             <div className=" position-relative d-flex  justify-content-center justify-content-lg-start    z-1">
               <img

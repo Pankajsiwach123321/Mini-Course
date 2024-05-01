@@ -14,12 +14,13 @@ import AOS from "aos";
 import "aos/dist/aos.css";
 import React from "react";
 import Preloder from "./Components/Preloder";
+document.body.classList.add("overflow_hidden");
 function App() {
   const [load, setload] = React.useState(true);
 
   React.useEffect(() => {
     setTimeout(() => {
-      document.body.classList.remove("overflow-hidden");
+      document.body.classList.remove("overflow_hidden");
       setload(false);
     }, 4000);
   });
