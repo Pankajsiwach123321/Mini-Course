@@ -64,6 +64,7 @@ const StudentSwiper = () => {
                         </div>
                       </div>
                       <a
+                        aria-label={obj.linkdin}
                         className="pe-1 me-3"
                         href="https://www.linkedin.com/feed/"
                         target="_blank"

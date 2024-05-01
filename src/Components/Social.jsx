@@ -29,6 +29,7 @@ const Social = () => {
       <div className=" bg-white d-inline-block p-18_7 radius-1  ">
         <div className=" d-flex  flex-md-column   justify-content-center  gap-11">
           <a
+            aria-label="twitter"
             href="https://twitter.com/home?lang=en"
             className="icon-hover transition-300"
             target="_blank"
@@ -36,6 +37,7 @@ const Social = () => {
             <Twitter />
           </a>
           <a
+            aria-label="instagram"
             href="https://www.instagram.com/"
             className="icon-hover transition-300"
             target="_blank"
@@ -43,6 +45,7 @@ const Social = () => {
             <Instagram />
           </a>
           <a
+            aria-label="telegram"
             href="https://web.telegram.org/a/"
             className="icon-hover transition-300"
             target="_blank"
@@ -50,6 +53,7 @@ const Social = () => {
             <Telegram />
           </a>
           <a
+            aria-label="linkdin"
             href="https://www.linkedin.com/feed/"
             className="icon-hover transition-300"
             target="_blank"

@@ -58,6 +58,7 @@ export const SwiperData = [
       "Vitae elit dapibus facilisis magna. Sem amet sem ullamcorper augue magna egestas sit tempus, cras. Mauris gravida elit eget mi et vitae viverra duis eget. Aliquam, quisque gravida est pretium suscipit vel. Non blandit eget tortor netus pellentesque mauris, diam. ",
     name: "Ross O’Rourke",
     username: "@Ross O’Rourke",
+    linkdin:'linkdinid1'
   },
   {
     image: student2,
@@ -66,6 +67,7 @@ export const SwiperData = [
       "I highly recommend kody Doherty. I have had the pleasure of working with him on variety of software projects over the past three years and his guidance has been intergral to my personal success. He is a driven, organized engineer who develops inspiring relationships with his students. ",
     name: "Luke O’Malley",
     username: "@Luke O’Malley",
+    linkdin:'linkdinid2'
   },
   {
     image: student3,
@@ -74,6 +76,7 @@ export const SwiperData = [
       "I had the pleasure of working with Kolton in 2019. In a team of a dozen people, Kolton stood out for his curiosity and drive. He executed ambitious projects with efficiency and attention to detail. He executed ambitious projects with efficiency and attention to detail.",
     name: "Leslie Sage",
     username: "@Leslie Sage",
+    linkdin:'linkdinid3'
   },
   {
     image: student2,
@@ -82,5 +85,6 @@ export const SwiperData = [
       "I highly recommend kody Doherty. I have had the pleasure of working with him on variety of software projects over the past three years and his guidance has been intergral to my personal success. He is a driven, organized engineer who develops inspiring relationships with his students. ",
     name: "Luke O’Malley",
     username: "@Luke O’Malley",
+    linkdin:'linkdinid4'
   },
 ];
