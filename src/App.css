@@ -352,8 +352,9 @@
   transition: all .3s linear;
 }
 
-.slidernavigation:hover {
-  outline: 1px solid var(--c-light-gray);
+.slidernavigation:hover 
+ {
+  outline: 1px solid var(--c-light-gray) !important;
   background: transparent;
 }
 
