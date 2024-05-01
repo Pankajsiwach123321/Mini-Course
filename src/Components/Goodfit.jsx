@@ -5,14 +5,14 @@ const Goodfit = () => {
     <section id="program" className=" pt-md-5 mt-sm-5">
       <div className="container pt-5 mt-md-5">
         <div className="row mt-md-4 pt-1">
-          <div className="col-lg-6">
+          <div className="col-lg-6 mb-4 mb-lg-0">
             <img
               src={girlTeam}
               alt="girlTeam"
               className=" mx-auto h-100  d-flex  d-lg-inline   w-100 max-w-488"
             />
           </div>
-          <div className="col-lg-6 mt-4 mt-lg-0 my-auto ">
+          <div className="col-lg-6  my-auto ">
             <h2
               data-aos="fade-down"
               className=" fw-medium mb-0 c-white-100 lh-7xl fs-4xl"
