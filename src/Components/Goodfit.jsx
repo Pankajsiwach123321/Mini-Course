@@ -9,7 +9,7 @@ const Goodfit = () => {
             <img
               src={girlTeam}
               alt="girlTeam"
-              className=" mx-auto  d-flex  d-lg-inline   w-100 max-w-488"
+              className=" mx-auto h-100  d-flex  d-lg-inline   w-100 max-w-488"
             />
           </div>
           <div className="col-lg-6 mt-4 mt-lg-0 my-auto ">

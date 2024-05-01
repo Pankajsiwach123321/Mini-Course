@@ -31,7 +31,8 @@ const Main = () => {
             <img
               data-aos="zoom-in-up"
               src={youTube}
-              className=" w-100 mt-4  max-w-996  position-relative  z-1 mx-auto  d-flex  rounded-4 "
+              // height={476}
+              className=" w-100 mt-4 h-100  max-w-996  position-relative  z-1 mx-auto  d-flex  rounded-4 "
               alt="youTube"
             />
           </a>

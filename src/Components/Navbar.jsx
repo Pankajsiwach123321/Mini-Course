@@ -19,6 +19,7 @@ const Navbar = () => {
               {navData.map((obj, index) => (
                 <a
                   key={index}
+                  aria-label={obj.name}
                   onClick={() => setOpen(false)}
                   href={obj.link}
                   className=" fs-sm c-dark-gray text-decoration-none  lh-md text-center fw-medium  navhover position-relative  z-1 "
