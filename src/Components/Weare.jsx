@@ -22,7 +22,7 @@ const Weare = () => {
                 width={474}
                 className=" max-w-474 w-100 max-h-sm-389  "
               />
-              <span className="round-text">
+              <span className="round-text animation-rotate">
                 <RoundLogo />
               </span>
             </div>
