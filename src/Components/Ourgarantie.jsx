@@ -25,10 +25,9 @@ const Ourgarantie = () => {
           </div>
           <div className="col-md-5 my-auto  my-lg-0 ">
             <img
-              height={313}
               src={kodeden}
               alt="kodeden"
-              className=" w-100 max-w-386 mx-auto  d-flex "
+              className=" w-100 max-w-386 h-100 max-w-290 mx-auto  d-flex "
             />
           </div>
         </div>

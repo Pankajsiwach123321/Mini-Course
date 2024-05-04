@@ -949,3 +949,65 @@ export const BackToTopIcon = () => {
     </svg>
   );
 };
+export const SocailIconToogleSvg = () => {
+  return (
+    <svg
+      xmlns="http://www.w3.org/2000/svg"
+      height="24"
+      viewBox="0 -960 960 960"
+      width="24"
+      fill="url(#paint3_linear_2_2003)"
+    >
+      <path
+        d="M480-160q-33 0-56.5-23.5T400-240q0-33 23.5-56.5T480-320q33 0 56.5 23.5T560-240q0 33-23.5 56.5T480-160Zm0-240q-33 0-56.5-23.5T400-480q0-33 23.5-56.5T480-560q33 0 56.5 23.5T560-480q0 33-23.5 56.5T480-400Zm0-240q-33 0-56.5-23.5T400-720q0-33 23.5-56.5T480-800q33 0 56.5 23.5T560-720q0 33-23.5 56.5T480-640Z"
+        fill="url(#paint3_linear_2_2003)"
+      ></path>
+      <defs>
+        <linearGradient
+          id="paint0_linear_2_2003"
+          x1="-9.46355e-08"
+          y1="1.8161"
+          x2="17.0035"
+          y2="27.4373"
+          gradientUnits="userSpaceOnUse"
+        >
+          <stop stop-color="#FF2801"></stop>
+          <stop offset="1" stop-color="#FF6B0A"></stop>
+        </linearGradient>
+        <linearGradient
+          id="paint1_linear_2_2003"
+          x1="10.8223"
+          y1="11.0965"
+          x2="12.3561"
+          y2="13.4077"
+          gradientUnits="userSpaceOnUse"
+        >
+          <stop stop-color="#FF2801"></stop>
+          <stop offset="1" stop-color="#FF6B0A"></stop>
+        </linearGradient>
+        <linearGradient
+          id="paint2_linear_2_2003"
+          x1="10.8225"
+          y1="17.0452"
+          x2="14.8925"
+          y2="19.0077"
+          gradientUnits="userSpaceOnUse"
+        >
+          <stop stop-color="#FF2801"></stop>
+          <stop offset="1" stop-color="#FF6B0A"></stop>
+        </linearGradient>
+        <linearGradient
+          id="paint3_linear_2_2003"
+          x1="17.386"
+          y1="17.0452"
+          x2="22.3872"
+          y2="23.6769"
+          gradientUnits="userSpaceOnUse"
+        >
+          <stop stop-color="#FF2801"></stop>
+          <stop offset="1" stop-color="#FF6B0A"></stop>
+        </linearGradient>
+      </defs>
+    </svg>
+  );
+};

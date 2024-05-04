@@ -409,12 +409,10 @@
 }
 
 .p-18_7 {
-  padding: 8px 16px;
+  padding: 18px 7px;
 }
 
-.left-61 {
-  left: -61px !important;
-}
+
 
 .radius-1 {
   border-radius: 1.78px;
@@ -459,6 +457,21 @@
   stroke: black;
 }
 
+.icon-layout {
+  background-color: white;
+  border-radius: 2px;
+  padding: 2px;
+}
+
+
+.side-set-icon {
+  position: fixed;
+  left: 0;
+  top: 300px;
+}
+
+
+
 .arrowguarante {
   position: absolute;
   left: 5%;
@@ -471,6 +484,20 @@
 
 .z-4 {
   z-index: 4;
+}
+
+.side-set {
+  position: fixed;
+  left: 0;
+  top: 300px;
+}
+
+.left_-full {
+  left: -100%;
+}
+
+.start_0 {
+  left: 0;
 }
 
 .swiper-card {
@@ -578,6 +605,10 @@
   .text_sm_center {
     text-align: center;
   }
+
+  .max-w-290 {
+    max-width: 290px;
+  }
 }
 
 @media (max-width:767.9px) {
@@ -630,16 +661,21 @@
     ;
   }
 
-  .p-18_7 {
-    padding: 18px 7px;
+  .left-61 {
+    left: -61px !important;
   }
 
-  .side-set {
-    position: fixed;
+  .left_-full {
     left: 0;
-    top: 300px;
   }
 
+  .start_0 {
+    left: unset;
+  }
+
+  .d_visiblity {
+    visibility: hidden;
+  }
 }
 
 @media (min-width:992px) {
